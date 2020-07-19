@@ -21,4 +21,5 @@ switch(a) {
         break;
     default:
         console.log("I nothing souch");
+        break;
 }
