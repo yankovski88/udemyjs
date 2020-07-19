@@ -1,3 +1,5 @@
+"use strict";
+
 let numberOfFilms = +prompt("How many did you watch film?", "");
 let question1 = prompt("What did you watch last film?", "");
 let question2 = prompt("What will you give ball?", "");
